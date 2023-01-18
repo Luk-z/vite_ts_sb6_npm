@@ -1,4 +1,4 @@
-# Vite + Typescript + Storybook beta v7 + npm
+# Vite + Typescript + Storybook beta v6 + npm
 
 Environment variables works with storybook v6.
 
